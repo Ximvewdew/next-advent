@@ -1,4 +1,6 @@
 ![Next Adventure](ghbanner.png)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3677e890-db7e-4a4f-94b0-f22e0b343b13/deploy-status)](https://app.netlify.com/sites/ximvewdew/deploys)
+
 
 <p align="center">
   A spooky, crowdsourced, mad-lib, Choose Your Own Adventure story <br/> built with Next.js, XState, Hasura, and Netlify Forms + Functions.
